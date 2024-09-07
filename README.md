@@ -6,7 +6,7 @@ Depression is a widespread mental health issue requiring precise and timely pred
 
 [Dataset](https://github.com/Sabab31/Depression-Repository/blob/main/Depression%20Dataset.csv)
 
-## Project Members
+## Contributers
 
 - **Alphonsa Jose**  
   Email: [BL.EN.U4CSE21013@bl.students.amrita.edu](mailto:BL.EN.U4CSE21013@bl.students.amrita.edu)
@@ -16,6 +16,9 @@ Depression is a widespread mental health issue requiring precise and timely pred
 
 - **Angelina George**  
   Email: [BL.EN.U4CSE21017@bl.students.amrita.edu](mailto:BL.EN.U4CSE21017@bl.students.amrita.edu)
+
+- **Dr. K Dinesh Kumar**  
+  Email: [kk_dinesh@blr.amrita.edu](mailto:kk_dinesh@blr.amrita.edu)
 
 ## Results
 
